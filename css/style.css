@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #fdf2e9;
+  background-color: #ebfbee;
 
   /* Because we want header to be sticky later */
   height: 9.6rem;
@@ -54,7 +54,7 @@
 
 .main-nav-link.nav-cta:hover,
 .main-nav-link.nav-cta:active {
-  background-color: #cf711f;
+  background-color: #ebfbee;
 }
 
 /* MOBILE */
@@ -81,7 +81,7 @@
 /**************************/
 
 .section-hero {
-  background-color: #fdf2e9;
+  background-color: #ebfbee;
   padding: 4.8rem 0 9.6rem 0;
 }
 
@@ -134,7 +134,7 @@
 }
 
 .delivered-text span {
-  color: #cf711f;
+  color: ##40c057;
   font-weight: 700;
 }
 
@@ -178,7 +178,7 @@
 .step-number {
   font-size: 8.6rem;
   font-weight: 600;
-  color: #ddd;
+  color: #2f9e44;
   margin-bottom: 1.2rem;
 }
 
@@ -213,14 +213,14 @@
   /* 60% of parent's width */
   padding-bottom: 60%;
 
-  background-color: #fdf2e9;
+  background-color: ##b2f2bb;
   z-index: -2;
 }
 
 .step-img-box::after {
   width: 45%;
   padding-bottom: 45%;
-  background-color: #fae5d3;
+  background-color: ##b2f2bb;
   z-index: -1;
 }
 
@@ -303,7 +303,7 @@
 .meal-icon {
   height: 2.4rem;
   width: 2.4rem;
-  color: #e67e22;
+  color: ##37b24d;
 }
 
 .meal-img {
@@ -423,7 +423,7 @@
 }
 
 .plan-name {
-  color: #cf711f;
+  color: ##37b24d;
   font-weight: 600;
   font-size: 2rem;
   text-transform: uppercase;
@@ -462,10 +462,10 @@
 }
 
 .feature-icon {
-  color: #e67e22;
+  color: #2f9e44;
   height: 3.2rem;
   width: 3.2rem;
-  background-color: #fdf2e9;
+  background-color: #d3f9d8;
   margin-bottom: 3.2rem;
   padding: 1.6rem;
   border-radius: 50%;
